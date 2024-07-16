@@ -1,7 +1,9 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2016-06-0
+redirect_to:
+  - /404.html
 ---
 
 {% include base_path %}
