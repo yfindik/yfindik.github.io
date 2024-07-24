@@ -1,10 +1,10 @@
 ---
-title: "Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains <b>(Under Review)</b>"
+title: "Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains"
 collection: publications
 permalink: /publication/2024_cdc_collaborative-adaptation
 excerpt: ''
 date: 2024-12-16
-venue: 'IEEE International Conference on Decision and Control (CDC) <b>(Under Review)</b>'
+venue: 'IEEE International Conference on Decision and Control (CDC)'
 citation: '<b>Y. Findik</b>, H. Hasenfus, R. Azadeh. &quot;Impact of Relational Networks in Multi-Agent Learning: A Value-Based Factorization View.&quot; <i>In proceeding 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, pp. xx-xx, Dec. 16-19, 2024</i>.'
 ---
 
