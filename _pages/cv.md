@@ -49,7 +49,7 @@ redirect_from:
   * Trained the underlying model on prior market data to predict optimal prices by learning market dynamics.
   * Enabled respective employees to inspect price differences of the company's products among e-commerce websites.
 
-* <ins>March 2020 -- July 2021</ins>: <b>Machine Learning Engineer @ Softtech</b>, Istanbul, Turkey. <i>SoftTech</i> is the tech company behind IsBank, Turkey's largest bank.
+* <ins>November 2018 -- June 2019</ins>: <b>Machine Learning Engineer @ Softtech</b>, Istanbul, Turkey. <i>SoftTech</i> is the tech company behind IsBank, Turkey's largest bank.
   * Implemented a platform for chatbot model training and management.
   * Utilizes deep learning (LSTM/GRU architectures) for larger datasets and similarity algorithms (e.g., n-grams, word mover's distance) for smaller datasets.
   * Platform is currently used by IsBank, where millions of users interact with the company's chatbot daily.
