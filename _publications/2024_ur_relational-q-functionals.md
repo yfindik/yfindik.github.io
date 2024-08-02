@@ -5,6 +5,7 @@ permalink: /publication/2024_ur_relational-q-functionals
 excerpt: ''
 date: 2024-06-24
 venue: 'IEEE International Conference on Ubiquitous Robots (UR)'
+paperurl: https://arxiv.org/pdf/2407.19128
 citation: '<b>Y. Findik</b>, P. Robinette, K. Jerath, R. Azadeh. &quot;Relational Q-Functionals: Multi-Agent Learning to Recover from Unforeseen Robot Malfunctions in Continuous Action Domains.&quot; <i>In proceeding 21st IEEE International Conference on Ubiquitous Robots (UR), New York, USA, pp. 251--256, June 24-27, 2024</i>.'
 ---
 

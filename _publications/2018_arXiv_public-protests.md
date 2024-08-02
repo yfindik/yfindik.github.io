@@ -1,5 +1,5 @@
 ---
-title: "Using Twitter Analytics to Predict Public Protests"
+title: "Twitter Reveals: Using Twitter Analytics to Predict Public Protests"
 collection: publications
 permalink: /publication/2018_arXiv_public-protests
 excerpt: ''

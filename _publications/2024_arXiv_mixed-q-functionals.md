@@ -1,11 +1,11 @@
 ---
-title: "Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains <b>(Under Review)</b>"
+title: "Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains"
 collection: publications
-permalink: /publication/2024_neurips_mixed-q-functionals
+permalink: /publication/2024_arXiv_mixed-q-functionals
 excerpt: ''
-date: 2024-12-17
+date: 2024-02-12
 paperurl: https://arxiv.org/pdf/2402.07752
-venue: 'International Conference on Neural Information Processing Systems (NeurIPS) <b>(Under Review)</b>'
+venue: 'arXiv.org'
 citation: '<b>Y. Findik</b>, R. Azadeh. &quot;Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains.&quot; <i>arXiv preprint arXiv:2402.07752, February 2024</i>.'
 ---
 
