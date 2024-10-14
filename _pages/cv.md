@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# CV [[pdf](../files/Yasin_Findik - Curriculum_Vitae.pdf)]
+# CV [[pdf](../files/YasFindik_resume.pdf)]
 
 
 ## Education
