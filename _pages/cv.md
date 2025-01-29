@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-* <b>Ph.D in Computer Science</b>, UMass Lowell, Jan 2025 (expected)
+* <b>Ph.D in Computer Science</b>, UMass Lowell, Feb 2025 (expected)
 * <b>M.S. in Computer Science & Engineering</b>, Sabanci University, 2018
 * <b>B.S. in Computer Engineering</b>, Izmir Institute of Technology, 2016
 
