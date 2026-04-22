@@ -10,3 +10,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+files/YasFindik_resume_old.pdf
+files/Yasin_Findik - Curriculum_Vitae.pdf
+files/.DS_Store
+.DS_Store

@@ -15,13 +15,64 @@ redirect_from:
 
 ## Education
 
-* <b>Ph.D in Computer Science</b>, UMass Lowell, Feb 2025 (expected)
-* <b>M.S. in Computer Science & Engineering</b>, Sabanci University, 2018
-* <b>B.S. in Computer Engineering</b>, Izmir Institute of Technology, 2016
+* <b>Ph.D in Computer Science</b>, UMass Lowell
+* <b>M.S. in Computer Science & Engineering</b>, Sabanci University 
+* <b>B.S. in Computer Engineering</b>, Izmir Institute of Technology
+
+## Work experience
+
+* <ins>Jul 2025 -- Present</ins>: <b>Associate Director, Global AI & Advanced Analytics @ BioNTech</b>, Massachusetts, US.  
+  * Drive an enterprise GenAI roadmap built on reusable capabilities, balancing near-term
+impact with long-term platform maturity, and aligning priorities across commercial,
+market access, and insights needs.
+  * Define and lead a modular GenAI capability stack (document intelligence, knowledge
+grounding, content transformation, orchestration, multi-agent patterns, governance),
+providing hands-on technical direction for scalable implementation with LangChain
+(RAG/tooling), LangGraph (stateful workflows), and MCP (standardized tool/data).
+  * Establish a role-based GenAI operating model (e.g., interpretation, planning, gener-
+ation, review, validation) to standardize how GenAI is embedded into workflows and
+scaled across teams, including A2A collaboration patterns for specialized agent roles.
+  * Lead cross-functional teams across research and engineering while remaining hands-
+on in key technical areas (use-case scoping, evaluation design, workflow patterns) to
+accelerate delivery and ensure quality.
+  * Implement governance-by-design for regulated AI workflows, including quality bench-
+marks, validation loops, audit readiness, and phased delivery milestones to improve
+reliability and adoption.
+  * Lead build-vs-buy decisions and partner strategy, setting performance expectations
+and coordinating vendors to accelerate delivery while strengthening long-term internal
+ownership and scalability.
+  * Drive 9 GenAI use cases end-to-end, and actively support 6 pharma commercial use
+cases in production through ongoing enhancements, stakeholder feedback loops, and
+quality monitoring.
+
+* <ins>Apr 2025 -- July 2025</ins>: <b>Postdoctoral Researcher @ Johnson & Johnson</b>, Massachusetts, US.  
+  * Implemented Retrieval-Augmented Generation to ground agent reasoning in external knowledge and support iterative, feedback-driven refinement across reasoning phases.
+  * Designed a multi-agent generative AI system in the biomedical domain, where agents with distinct motivations (e.g., curiosity, conservatism) collaboratively explore, generate, and critique outputs derived from natural language observations.
+  
+* <ins>June 2022 -- August 2022</ins>: <b>Data Science Intern @ Novartis</b>, New Jersey, US. <i>Novartis</i> operates in the pharmaceutical and healthcare sector, focusing on the research, development, and commercialization of innovative medicines and healthcare solutions. 
+  * Developed Mixed Marketing Model(s) using Turkey sales data for Jakavi and Kisqali.
+  * Preprocessed and mined data for the Belgium Sentiment Analysis Project.
+  * Reviewed literature and designed experiments for the Genomics Project on breast cancer.
+
+* <ins>Jan 2020 -- Aug 2021</ins>: <b>Sr. Machine Learning Engineer @ Cicek Sepeti</b>, Istanbul, Turkey. <i>Ciceksepeti.com</i> is an online floral and gourmet foods, gift retailer operating in Turkey with subsidiaries (lolaflora.com) in other countries.
+  * Led a team of three junior engineers in designing and building an efficient framework to find the optimal price of products.
+  * Combined modern machine learning approaches with structural models to maximize company profits.
+  * Trained the underlying model on prior market data to predict optimal prices by learning market dynamics.
+  * Enabled respective employees to inspect price differences of the company's products among e-commerce websites.
+
+* <ins>Jun 2018 -- Dec 2019</ins>: <b>Machine Learning Engineer @ Softtech</b>, Istanbul, Turkey. <i>SoftTech</i> is the tech company behind IsBank, Turkey's largest bank.
+  * Implemented a platform for chatbot model training and management.
+  * Utilizes deep learning (LSTM/GRU architectures) for larger datasets and similarity algorithms (e.g., n-grams, word mover's distance) for smaller datasets.
+  * Platform is currently used by IsBank, where millions of users interact with the company's chatbot daily.
+
+* <ins>August 2015 -- June 2016</ins>: <b>Software Engineer @ Secube</b>, Izmir, Turkey
+  * Worked as a full-time software engineer during my senior year of college.
+  * Developed [CubeBox](https://www.secube.com.tr/en/cubebox-document-management-system), an application similar to GoogleDrive that allows users to store their files, access them remotely, share them with others, and encrypt files before storing them, unlike other available apps.
+  * Developed a mobile application for members of the Turkish parliament to securely sign and share documents.
 
 ## Research experience
 
-* <ins>August 2021 -- Present</ins>: <b>Research Assistant @ Persistent Autonomy and Robot Learning lab ([PeARL](https://www.pearl-robotics.com/))</b>, University of Massachusetts Lowell.
+* <ins>August 2021 -- Mar 2025</ins>: <b>Research Assistant @ Persistent Autonomy and Robot Learning lab ([PeARL](https://www.pearl-robotics.com/))</b>, University of Massachusetts Lowell.
   * Currently, exploring how Large Language Models (LLMs) can be used within Multi-Agent Reinforcement Learning (MARL) frameworks to improve agents' performance and encourage the emergence of novel behaviors.
   * Conducted research on MARL and emergent behaviors in collaborative environments. Designed and implemented a graph-based approach to guide and influence the agents' behavior in multi-agent settings.
   * Implemented existing single-agent deep reinforcement learning architectures (DQN, A2C, DDPG, PPO). Implemented and extended existing multi-agent deep reinforcement learning architectures, both value-based (VDN, QMix) and policy-based (MADDPG, MAPPO).
@@ -35,29 +86,6 @@ redirect_from:
 
 * <ins>September 2015 -- May 2016</ins>: <b>Research Student @ Visual Intelligence Research Group</b>, Izmir Institute of Technology.
   * Worked on obstruction removal from images and implemented a computational approach to remove impediments such as fences, windows and reflections from images.
-
-## Work experience
-
-* <ins>June 2022 -- August 2022</ins>: <b>Data Science Intern @ Novartis</b>, New Jersey, USA. <i>Novartis</i> operates in the pharmaceutical and healthcare sector, focusing on the research, development, and commercialization of innovative medicines and healthcare solutions. 
-  * Developed Mixed Marketing Model(s) using Turkey sales data for Jakavi and Kisqali.
-  * Preprocessed and mined data for the Belgium Sentiment Analysis Project.
-  * Reviewed literature and designed experiments for the Genomics Project on breast cancer.
-
-* <ins>March 2020 -- July 2021</ins>: <b>Machine Learning Engineer @ Cicek Sepeti</b>, Istanbul, Turkey. <i>Ciceksepeti.com</i> is an online floral and gourmet foods, gift retailer operating in Turkey with subsidiaries (lolaflora.com) in other countries.
-  * Led a team of three junior engineers in designing and building an efficient framework to find the optimal price of products.
-  * Combined modern machine learning approaches with structural models to maximize company profits.
-  * Trained the underlying model on prior market data to predict optimal prices by learning market dynamics.
-  * Enabled respective employees to inspect price differences of the company's products among e-commerce websites.
-
-* <ins>November 2018 -- June 2019</ins>: <b>Machine Learning Engineer @ Softtech</b>, Istanbul, Turkey. <i>SoftTech</i> is the tech company behind IsBank, Turkey's largest bank.
-  * Implemented a platform for chatbot model training and management.
-  * Utilizes deep learning (LSTM/GRU architectures) for larger datasets and similarity algorithms (e.g., n-grams, word mover's distance) for smaller datasets.
-  * Platform is currently used by IsBank, where millions of users interact with the company's chatbot daily.
-
-* <ins>August 2015 -- June 2016</ins>: <b>Software Engineer @ Secube</b>, Izmir, Turkey
-  * Worked as a full-time software engineer during my senior year of college.
-  * Developed [CubeBox](https://www.secube.com.tr/en/cubebox-document-management-system), an application similar to GoogleDrive that allows users to store their files, access them remotely, share them with others, and encrypt files before storing them, unlike other available apps.
-  * Developed a mobile application for members of the Turkish parliament to securely sign and share documents.
 
 ## Technical skills
 
