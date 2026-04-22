@@ -41,9 +41,7 @@ reliability and adoption.
   * Lead build-vs-buy decisions and partner strategy, setting performance expectations
 and coordinating vendors to accelerate delivery while strengthening long-term internal
 ownership and scalability.
-  * Drive 9 GenAI use cases end-to-end, and actively support 6 pharma commercial use
-cases in production through ongoing enhancements, stakeholder feedback loops, and
-quality monitoring.
+  * Overall, lead the launch of 9 pharma commercial GenAI use cases and oversee on- going support for 6, driving enhancements, adoption, stakeholder feedback loops, and quality monitoring.
 
 * <ins>Apr 2025 -- July 2025</ins>: <b>Postdoctoral Researcher @ Johnson & Johnson</b>, Massachusetts, US.  
   * Implemented Retrieval-Augmented Generation to ground agent reasoning in external knowledge and support iterative, feedback-driven refinement across reasoning phases.
@@ -89,9 +87,11 @@ quality monitoring.
 
 ## Technical skills
 
+
+* <b>AI/ML & Analytics</b>: Deep Learning, Transformers, GenAI, Retrieval-Augmented Generation, Reinforcement Learning, Multi-agent Systems, NLP, A/B testing, Forecasting, Statistical Modelling, Predictive Analysis, Tableau, PowerBI
 * <b>Languages</b>: Python, C, Matlab, R, Object-Oriented (Java/C++/C\#), Web Development (HTML/CSS/Javascript/PHP)
-* <b>Frameworks</b>: Pytorch, Tensorflow, Keras, Flask, OpenCV, OpenGL, D3, Android
-* <b>Others</b>: AWS, Docker, Kafka, Solr, MongoDB, Git
+* <b>Frameworks</b>: PyTorch, Tensorflow, LangChain, LangGraph, MCP, A2A, Keras, Flask, OpenCV, OpenGL, D3, Android
+* <b>Others</b>: Databricks, AWS, GCP, Docker, Neo4j, Kafka, Solr, MongoDB, Git
 
 ## Publications
 
